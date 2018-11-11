@@ -2,8 +2,8 @@ FB Messenger Bot Test application with Dialogflow, ngrok and nodejs.
 
 Prerequisite:
 Ngrok
-You can download it at : https://dashboard.ngrok.com/get-started
-We need ngrok to expose your localhost server.
+Ngrok is a multiplatform tunnelling, reverse proxy software service and it is being used here to expose our localhost server.
+You can download it here : https://dashboard.ngrok.com/get-started
 
 Dialogflow is a NLP service.
 

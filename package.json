@@ -1,0 +1,26 @@
+{
+  "name": "messengerbot",
+  "version": "1.0.0",
+  "description": "Bot for Facebook Messenger with dialogflow and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waimyokyaw/messengerbot.git"
+  },
+  "keywords": [
+    "bot",
+    "messenger",
+    "dialogflow",
+    "webhook",
+    "nodejs"
+  ],
+  "author": "WaiMyoKyaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waimyokyaw/messengerbot/issues"
+  },
+  "homepage": "https://github.com/waimyokyaw/messengerbot#readme"
+}
